@@ -6,7 +6,7 @@
 
     打开 https://opencv.org/releases 找到 Android ，点击就可以下载了。
   
-2. 编译 samples 
+2. 编译 samples （介绍： https://opencv.org/opencv4android-samples/ ）
 
     2.1 下载下来是 opencv-4.2.0-android-sdk.zip ，解压这个包。
     
